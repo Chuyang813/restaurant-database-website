@@ -3,6 +3,10 @@ The exact SQL implementation code can be found in script.txt.
 Other files create a website, called restaurant.html, where all the data in the database can be accessed.
 
 
+
+
+INTERPRETATION:
+
 Your database will store information about a family of restaurants with the requirements outlined as follows:
 
 there are 4 different restaurants owned by the same company.  Each restaurant has a unique name, a unique URL and an address.
